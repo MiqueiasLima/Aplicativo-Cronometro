@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "HelloWorld",
-    "slug": "Cronometro",
+    "name": "AplicativoCronometro",
+    "slug": "AplicativoCronometro",
     "platforms": [
       "ios",
       "android",
