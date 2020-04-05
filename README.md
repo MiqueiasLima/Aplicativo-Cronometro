@@ -7,6 +7,7 @@
 - [VsCode](https://code.visualstudio.com/download)
 - [Expo](https://expo.io/)
 - [Node.Js](https://nodejs.org/en/download/)
-- [React-Native](https://reactnative.dev/docs/environment-setup)
+- [React-Native](https://reactnative.dev/docs/environment-setup) 
+
 
 
